@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tempusaro
-- 👀 I’m interested in LLMs, cybersecurity, and distributed systems.
+- 👀 I’m interested in LLMs, Machine Learnning, ML Systems, MLOps and distributed systems.
 - 🌱 I’m currently learning CS at UVA
 - 📫 How to reach me: tempusaro@virignia.edu
